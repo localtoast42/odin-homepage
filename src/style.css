@@ -36,6 +36,19 @@ p {
     text-align: center;
 }
 
+.project-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.project-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
 #project-1 {
     background-color: brown;
 }
