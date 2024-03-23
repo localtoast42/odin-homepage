@@ -25,3 +25,37 @@ p {
     width: 200px;
     box-shadow: 2px 2px 10px lightgray;
 }
+
+.project-image {
+    display: flex;
+    align-items: center;
+    height: 140px;
+    font-family: Playfair Display, serif;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
+
+#project-1 {
+    background-color: brown;
+}
+
+#project-2 {
+    background-color: purple;
+}
+
+#project-3 {
+    background-color: forestgreen;
+}
+
+#project-4 {
+    background-color: mediumslateblue;
+}
+
+#project-5 {
+    background-color: orangered;
+}
+
+#project-6 {
+    background-color: rgb(109, 152, 167);
+}
