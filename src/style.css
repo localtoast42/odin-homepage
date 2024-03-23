@@ -8,6 +8,10 @@ h1, h2, h3 {
     font-family: Playfair Display, serif;
 }
 
+h3 {
+    margin: 0;
+}
+
 p {
     font-family: Roboto, sans-serif;
 }
@@ -34,6 +38,10 @@ p {
     font-size: 24px;
     color: white;
     text-align: center;
+}
+
+.project-content {
+    padding: 8px 16px;
 }
 
 .project-header {
